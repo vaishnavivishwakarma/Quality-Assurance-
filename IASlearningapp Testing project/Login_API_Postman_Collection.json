@@ -1,0 +1,15 @@
+{
+    "info": {
+        "name": "Drishti Login API Testing",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Login API",
+            "request": {
+                "method": "POST",
+                "url": "https://www.drishtilearningapp.com/api/login"
+            }
+        }
+    ]
+}
